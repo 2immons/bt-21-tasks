@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
   mode: 'history',
-  base: 'https://github.com/2immons/bt-21-tasks',
+  base: '/2immons/bt-21-tasks/',
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
