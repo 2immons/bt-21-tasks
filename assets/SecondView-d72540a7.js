@@ -1,0 +1,1 @@
+import{N as o}from"./Navbar-c24815ef.js";import{_ as s,r as t,o as a,c as r,e as c}from"./index-365eb268.js";const n={components:{Navbar:o}},_={class:"result"};function p(m,d,i,f,l,u){const e=t("Navbar");return a(),r("div",_,[c(e)])}const $=s(n,[["render",p]]);export{$ as default};
