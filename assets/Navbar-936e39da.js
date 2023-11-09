@@ -1,1 +1,0 @@
-import{_ as s,r as _,o as c,c as n,a as r,e as t,g as a,h as o}from"./index-700630cc.js";const d={},i={class:"header"},l={class:"navbar"};function u(v,f){const e=_("RouterLink");return c(),n("div",i,[r("div",l,[t(e,{to:"/"},{default:a(()=>[o("Главная")]),_:1}),t(e,{to:"/result"},{default:a(()=>[o("Результат")]),_:1})])])}const h=s(d,[["render",u]]);export{h as N};
